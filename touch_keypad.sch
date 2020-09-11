@@ -1095,4 +1095,15 @@ Wire Wire Line
 Wire Wire Line
 	8000 3800 8000 4250
 Connection ~ 7900 3300
+$Comp
+L power:+5V #PWR?
+U 1 1 5F5A334C
+P 3850 6050
+F 0 "#PWR?" H 3850 5900 50  0001 C CNN
+F 1 "+5V" H 3865 6223 50  0000 C CNN
+F 2 "" H 3850 6050 50  0001 C CNN
+F 3 "" H 3850 6050 50  0001 C CNN
+	1    3850 6050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
